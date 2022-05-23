@@ -75,6 +75,10 @@
      harmonious species. Be yourself at maximum, be happy, and love, no
      unecessary fears or conflicts, just harmony and peace.
 
-     A humble cumpliment from your fellow human, lejs_n4rus.
+     A humble cumpliment from your fellow human, lejs.
      11/03/2020
      
+     11/05/2022
+     README Update: 
+     This repository is part of PI/p103/IoE so it must be included on other
+     projects/repositories.
